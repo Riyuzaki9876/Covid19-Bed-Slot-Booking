@@ -1,7 +1,4 @@
-Here's a README you can paste straight into GitHub:
-
-````markdown
-# COVID-19 Hospital Bed Slot Booking System
+   COVID-19 Hospital Bed Slot Booking System
 
 During the COVID-19 pandemic, finding a free hospital bed was one of the hardest things for patients and their families. People often had to call hospital after hospital just to find out whether a bed was available. I built this project to make that process simpler.
 
