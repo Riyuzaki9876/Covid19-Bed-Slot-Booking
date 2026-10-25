@@ -1,4 +1,4 @@
-   COVID-19 Hospital Bed Slot Booking System
+## COVID-19 Hospital Bed Slot Booking System
 
 During the COVID-19 pandemic, finding a free hospital bed was one of the hardest things for patients and their families. People often had to call hospital after hospital just to find out whether a bed was available. I built this project to make that process simpler.
 
@@ -56,6 +56,3 @@ This project taught me a lot about connecting a Python backend to a real databas
 ## Author
 
 **[Abhinay kumar]**
-- The `git clone` link (your username and repo name)
-- `app.py`, the port `5000` and the SQL file name, so they match your project. I assumed Flask's usual defaults; tell me if you used something else, like Django.
-- Your name and profile links
